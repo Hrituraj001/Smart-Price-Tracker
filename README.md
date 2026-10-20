@@ -93,10 +93,10 @@ Before starting, make sure you have:
 
 ### 1. Clone the Repository
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `KaranRaghav50` with your GitHub username.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-product-price-tracker.git
+git clone https://github.com/KaranRaghav50/smart-product-price-tracker.git
 cd smart-product-price-tracker
 ```
 
@@ -219,11 +219,7 @@ Contributions, suggestions, and bug reports are welcome.
 4. Test your implementation.
 5. Submit a pull request with a clear description of your changes.
 
-## 🙌 Credits & Acknowledgements
 
-This project is based on or inspired by the original Smart Product Price Tracker project by [Piyush Eon](https://github.com/piyush-eon/smart-product-price-tracker).
-
-Credit is given to the original project and its contributors. Please refer to the original repository's license before redistributing or modifying its code.
 
 ## 📄 License
 
@@ -233,7 +229,7 @@ Add a license appropriate to your repository after checking the original project
 
 **YOUR NAME**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@KaranRaghav50](https://github.com/KaranRaghav50)
 
 ---
 
