@@ -1,13 +1,10 @@
 # 🛍️ Smart Product Price Tracker
 
 **Track prices. Discover trends. Shop smarter.**
-
 Smart Product Price Tracker is a web application designed to help users monitor product prices across supported e-commerce websites, analyze historical price changes, and receive email notifications when prices drop.
-
 Built with modern web technologies, the project combines a responsive interface, automated product data extraction, database-backed price tracking, and email notifications to make online shopping more informed and convenient.
 
 ## ✨ Key Features
-
 - 🔍 **Product Price Tracking** — Add product URLs from supported e-commerce websites to monitor their prices.
 - 📉 **Price History & Analytics** — View historical price changes through interactive charts.
 - 🔔 **Price Drop Notifications** — Receive email alerts when tracked products become cheaper.
@@ -18,7 +15,6 @@ Built with modern web technologies, the project combines a responsive interface,
 - 📱 **Responsive Interface** — Access the application across supported desktop and mobile screen sizes.
 
 ## 🧰 Tech Stack
-
 | Technology | Purpose |
 |---|---|
 | Next.js | Web application framework |
