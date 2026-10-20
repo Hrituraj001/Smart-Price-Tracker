@@ -230,7 +230,8 @@ Add a license appropriate to your repository after checking the original project
 **YOUR NAME**
 
 - GitHub: [@KaranRaghav50](https://github.com/KaranRaghav50)
+- Github: https://github.com/KaranRaghav50/Smart-Price-Tracker
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star.
+⭐ If you find this project useful, consider giving the repository a star.Thanks.
